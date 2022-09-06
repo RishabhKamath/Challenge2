@@ -3,3 +3,9 @@
     text-align: center;
     background: #13293d;
     color: #fff;
+}
+
+.Nav {
+    Display: flex;
+    justify-content: end;
+}
