@@ -1,11 +1,53 @@
-.Header {
+.header {
     padding: 40px;
     text-align: center;
     background: #13293d;
     color: #fff;
+    display: flex;
+    justify-content: space-between;
 }
 
-.Nav {
-    Display: flex;
-    justify-content: end;
+.nav {
+    
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 25px;
+}
+nav ul li{
+    padding-right: 4%;
+    
+}
+nav ul a{
+    color:#fff;
+
+}
+
+.page {
+    display: flex;
+    margin: 5%;
+    padding: 5%;
+    
+}
+
+.side-bar {
+    width: 20%;
+    border-right: 2px solid black;
+   
+}
+
+.content {
+    width: 80%;
+}
+
+.section-heading {
+    text-align: right;
+}
+
+main {
+    margin: 5%;
+    padding: 5%;
 }
