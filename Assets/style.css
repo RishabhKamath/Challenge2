@@ -84,3 +84,21 @@ main {
     height: 450px;
 }
 
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 25px;
+}
+footer ul li{
+    padding-right: 4%;
+    
+}
+footer ul a{
+    color:#fff;
+}
