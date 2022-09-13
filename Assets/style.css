@@ -67,6 +67,7 @@ main {
     flex-wrap: wrap;
 }
 
+
 .imgcontainer {
     width: 45%;
     max-width: 50%;
@@ -82,3 +83,4 @@ main {
     width: 450px;
     height: 450px;
 }
+
