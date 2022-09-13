@@ -5,9 +5,11 @@
     color: #fff;
     display: flex;
     justify-content: space-between;
+    font-size: larger;
 }
 
 .body {
+    background-color: rgb(117, 118, 119);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -47,6 +49,7 @@ nav ul a{
 
 .content {
     width: 80%;
+    
 }
 
 .section-heading {
